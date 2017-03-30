@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2017-03-30T17:22:04Z"/>
+
+  <way id="4923859" version="4" timestamp="2014-02-17T22:23:31Z" changeset="20626084" uid="139957" user="ij_" action="modify">
+    <nd ref="32314725"/>
+    <nd ref="32314727"/>
+    <nd ref="1563217424"/>
+    <nd ref="1563217429"/>
+    <nd ref="301062471"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Laaksokuja"/>
+    <tag k="name:fi" v="Laaksokuja"/>
+  <tag k="name:sv" v="Dalgränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="7292575" version="5" timestamp="2014-02-17T22:24:18Z" changeset="20626084" uid="139957" user="ij_">
+    <nd ref="54634668"/>
+    <nd ref="1686435041"/>
+    <nd ref="1686435046"/>
+    <nd ref="1686435047"/>
+    <nd ref="2644067267"/>
+    <nd ref="1686435049"/>
+    <nd ref="54634899"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Päärynäkuja"/>
+    <tag k="name:fi" v="Päärynäkuja"/>
+  </way>
+  <way id="7694520" version="5" timestamp="2014-02-17T22:24:49Z" changeset="20626084" uid="139957" user="ij_" action="modify">
+    <nd ref="54459641"/>
+    <nd ref="1687444244"/>
+    <nd ref="1683707416"/>
+    <nd ref="55879383"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Teinikuja"/>
+    <tag k="name:fi" v="Teinikuja"/>
+  <tag k="name:sv" v="Djäknestigen"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="7694630" version="5" timestamp="2014-02-17T22:24:56Z" changeset="20626084" uid="139957" user="ij_" action="modify">
+    <nd ref="26432776"/>
+    <nd ref="1685235045"/>
+    <nd ref="55881075"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Tohtorinkuja"/>
+    <tag k="name:fi" v="Tohtorinkuja"/>
+  <tag k="name:sv" v="Doktorsgränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="27435358" version="10" timestamp="2017-03-29T09:05:46Z" changeset="47253290" uid="4926952" user="HSL_OSM">
+    <nd ref="4761486700"/>
+    <nd ref="54022755"/>
+    <nd ref="54022756"/>
+    <nd ref="1687460603"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Kulopolku"/>
+    <tag k="name:fi" v="Kulopolku"/>
+  </way>
+  <way id="27483552" version="7" timestamp="2014-02-18T17:08:38Z" changeset="20640958" uid="139957" user="ij_">
+    <nd ref="26432754"/>
+    <nd ref="148941812"/>
+    <nd ref="1941072012"/>
+    <nd ref="301735454"/>
+    <nd ref="301735455"/>
+    <nd ref="302578933"/>
+    <nd ref="302578934"/>
+    <nd ref="1295327042"/>
+    <nd ref="302578964"/>
+    <nd ref="302578965"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Anna-Muorin tie"/>
+    <tag k="name:fi" v="Anna-Muorin tie"/>
+  </way>
+  <way id="27507321" version="4" timestamp="2017-03-17T15:11:57Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="301988136"/>
+    <nd ref="301988140"/>
+    <nd ref="301988142"/>
+    <nd ref="301988151"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Välitie"/>
+  <tag k="name:sv" v="Mellanvägen"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="27532065" version="3" timestamp="2017-03-17T15:11:57Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="302263230"/>
+    <nd ref="302263232"/>
+    <nd ref="302263234"/>
+    <nd ref="302263237"/>
+    <nd ref="4739937203"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Klostretinkuja"/>
+  <tag k="name:sv" v="Klostrets gränd"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="27533861" version="4" timestamp="2017-03-17T15:11:58Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="302280153"/>
+    <nd ref="1687460643"/>
+    <nd ref="1686550034"/>
+    <nd ref="1687460651"/>
+    <nd ref="302280205"/>
+    <nd ref="302280206"/>
+    <nd ref="302280207"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Akatemiankuja"/>
+  <tag k="name:sv" v="Akademigränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="39989050" version="18" timestamp="2017-03-29T09:05:47Z" changeset="47253290" uid="4926952" user="HSL_OSM">
+    <nd ref="480440877"/>
+    <nd ref="480458732"/>
+    <nd ref="2322361983"/>
+    <nd ref="3257104438"/>
+    <nd ref="480458971"/>
+    <nd ref="480458972"/>
+    <nd ref="2322281650"/>
+    <nd ref="2326120742"/>
+    <nd ref="4761486699"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kulovalkeantie"/>
+    <tag k="name:fi" v="Kulovalkeantie"/>
+    <tag k="source" v="survey"/>
+    <tag k="start_date" v="after 2006"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="44756607" version="2" timestamp="2017-03-17T15:11:57Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="567676076"/>
+    <nd ref="567676078"/>
+    <nd ref="567676080"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pirkonkuja"/>
+  <tag k="name:sv" v="Britagränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="48370766" version="5" timestamp="2014-02-18T17:12:48Z" changeset="20640958" uid="139957" user="ij_">
+    <nd ref="614407014"/>
+    <nd ref="614407011"/>
+    <nd ref="614407012"/>
+    <nd ref="614407013"/>
+    <nd ref="1686493948"/>
+    <nd ref="614407009"/>
+    <nd ref="614407010"/>
+    <nd ref="614407003"/>
+    <nd ref="614407004"/>
+    <nd ref="614407005"/>
+    <nd ref="614407006"/>
+    <nd ref="1540139083"/>
+    <nd ref="614407007"/>
+    <nd ref="1540139105"/>
+    <nd ref="614407008"/>
+    <tag k="FIXME" v="tässä saattaa olla osa cyclewayta ja bollardeja, oli vuosi sit destination mut ei jaksa muistaa miten se muuttu vai muuttuko"/>
+    <tag k="highway" v="residential"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="name" v="Vanha Ingaksentie"/>
+    <tag k="name:fi" v="Vanha Ingaksentie"/>
+  </way>
+  <way id="82142597" version="3" timestamp="2017-02-10T13:27:19Z" changeset="45973810" uid="5159390" user="tvenhola" action="modify">
+    <nd ref="54599218"/>
+    <nd ref="4678402311"/>
+    <nd ref="956494167"/>
+    <nd ref="956494165"/>
+    <nd ref="956494166"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Siestankuja"/>
+    <tag k="name:fi" v="Siestankuja"/>
+  <tag k="name:sv" v="Siestagränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="142855099" version="3" timestamp="2014-02-17T22:22:59Z" changeset="20626084" uid="139957" user="ij_" action="modify">
+    <nd ref="1563217257"/>
+    <nd ref="301125002"/>
+    <nd ref="416678299"/>
+    <nd ref="1941071973"/>
+    <nd ref="301125010"/>
+    <nd ref="301125011"/>
+    <nd ref="416677808"/>
+    <nd ref="301125012"/>
+    <nd ref="1563217242"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Junghansinkuja"/>
+    <tag k="name:fi" v="Junghansinkuja"/>
+  <tag k="name:sv" v="Junghansgränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="154854784" version="2" timestamp="2017-03-17T15:11:58Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="1673207439"/>
+    <nd ref="301380539"/>
+    <nd ref="301380540"/>
+    <nd ref="301380542"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nuohoojankuja"/>
+  <tag k="name:sv" v="Sotargränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="231099609" version="1" timestamp="2013-07-24T13:53:48Z" changeset="17075828" uid="505306" user="PetriT">
+    <nd ref="2395067210"/>
+    <nd ref="2395067211"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="driveway"/>
+  </way>
+  <way id="473767434" version="1" timestamp="2017-02-10T10:57:12Z" changeset="45970266" uid="4926952" user="HSL_OSM">
+    <nd ref="1687460603"/>
+    <nd ref="54022757"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Kulopolku"/>
+    <tag k="name:fi" v="Kulopolku"/>
+  </way>
+  <way id="481052146" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT">
+    <nd ref="54634667"/>
+    <nd ref="4739937181"/>
+    <nd ref="4739937182"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Omenakuja"/>
+  </way>
+  <way id="481052151" version="1" timestamp="2017-03-17T15:11:57Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="4739937200"/>
+    <nd ref="4739937201"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Kallenkuja"/>
+  <tag k="name:sv" v="Kallegränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="481052152" version="1" timestamp="2017-03-17T15:11:57Z" changeset="46930956" uid="4517549" user="HSL_HRT" action="modify">
+    <nd ref="452075290"/>
+    <nd ref="4739937202"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Rikhardinkuja"/>
+  <tag k="name:sv" v="Richardsgränden"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="483407737" version="1" timestamp="2017-03-29T09:05:42Z" changeset="47253290" uid="4926952" user="HSL_OSM" action="modify">
+    <nd ref="303696745"/>
+    <nd ref="4761486698"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Turuntienportti"/>
+  <tag k="name:sv" v="Åbovägsporten"/><tag k="source:name:sv" v="Digiroad.fi"/></way>
+  <way id="483407739" version="1" timestamp="2017-03-29T09:05:42Z" changeset="47253290" uid="4926952" user="HSL_OSM">
+    <nd ref="4761486699"/>
+    <nd ref="301222903"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kulovalkeantie"/>
+    <tag k="name:fi" v="Kulovalkeantie"/>
+    <tag k="source" v="survey"/>
+    <tag k="start_date" v="after 2006"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="483407740" version="1" timestamp="2017-03-29T09:05:42Z" changeset="47253290" uid="4926952" user="HSL_OSM">
+    <nd ref="54022754"/>
+    <nd ref="4761486700"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Kulopolku"/>
+    <tag k="name:fi" v="Kulopolku"/>
+  </way>
+  <node id="26432754" lat="60.2164102" lon="24.7414283" version="4" timestamp="2012-03-22T15:26:57Z" changeset="11063992" uid="38239" user="Daeron"/>
+  <node id="26432776" lat="60.2161480" lon="24.7348349" version="2" timestamp="2012-03-21T03:26:14Z" changeset="11047957" uid="38239" user="Daeron"/>
+  <node id="32314725" lat="60.2093412" lon="24.7309255" version="2" timestamp="2011-12-27T03:13:40Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="32314727" lat="60.2090650" lon="24.7305357" version="2" timestamp="2011-12-27T03:13:40Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="54022754" lat="60.2072646" lon="24.6881930" version="2" timestamp="2008-10-15T13:39:55Z" changeset="353174" uid="3855" user="Liimes"/>
+  <node id="54022755" lat="60.2073762" lon="24.6880726" version="2" timestamp="2012-03-23T17:34:01Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="54022756" lat="60.2074579" lon="24.6880580" version="3" timestamp="2012-03-23T17:34:01Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="54022757" lat="60.2076785" lon="24.6881592" version="2" timestamp="2008-09-25T19:05:08Z" changeset="696040" uid="17196" user="Elias"/>
+  <node id="54459641" lat="60.2134218" lon="24.7257218" version="2" timestamp="2012-03-20T20:07:46Z" changeset="11044894" uid="38239" user="Daeron"/>
+  <node id="54599218" lat="60.2222899" lon="24.7188880" version="5" timestamp="2012-03-23T01:44:05Z" changeset="11069599" uid="38239" user="Daeron"/>
+  <node id="54634667" lat="60.2207164" lon="24.7462219" version="2" timestamp="2012-03-22T22:31:58Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="54634668" lat="60.2209452" lon="24.7473043" version="2" timestamp="2012-03-22T22:31:58Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="54634899" lat="60.2219166" lon="24.7468189" version="2" timestamp="2012-03-22T22:31:58Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="55879383" lat="60.2146872" lon="24.7255112" version="2" timestamp="2012-03-20T20:07:46Z" changeset="11044894" uid="38239" user="Daeron"/>
+  <node id="55881075" lat="60.2164368" lon="24.7340380" version="3" timestamp="2012-03-21T22:38:03Z" changeset="11058030" uid="38239" user="Daeron"/>
+  <node id="148941812" lat="60.2163722" lon="24.7415149" version="4" timestamp="2012-03-22T15:36:37Z" changeset="11064107" uid="38239" user="Daeron">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="301062471" lat="60.2091542" lon="24.7297484" version="2" timestamp="2011-12-27T03:12:55Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="301125002" lat="60.2081521" lon="24.7274715" version="4" timestamp="2011-12-27T03:13:21Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="301125010" lat="60.2080891" lon="24.7278285" version="3" timestamp="2011-12-27T03:13:21Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="301125011" lat="60.2080194" lon="24.7287554" version="4" timestamp="2011-12-27T03:13:22Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="301125012" lat="60.2079846" lon="24.7296696" version="4" timestamp="2011-12-27T03:13:22Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="301222903" lat="60.2081919" lon="24.6856160" version="2" timestamp="2012-03-23T17:33:48Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="301380539" lat="60.2080538" lon="24.7073095" version="2" timestamp="2012-03-13T11:07:48Z" changeset="10965293" uid="38239" user="Daeron"/>
+  <node id="301380540" lat="60.2080145" lon="24.7071790" version="2" timestamp="2012-03-13T11:07:48Z" changeset="10965293" uid="38239" user="Daeron"/>
+  <node id="301380542" lat="60.2079752" lon="24.7070940" version="2" timestamp="2012-03-13T11:07:48Z" changeset="10965293" uid="38239" user="Daeron"/>
+  <node id="301735454" lat="60.2159352" lon="24.7422891" version="4" timestamp="2012-03-22T15:36:38Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="301735455" lat="60.2155069" lon="24.7428606" version="7" timestamp="2012-03-22T15:36:38Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="301988136" lat="60.2123599" lon="24.7206929" version="4" timestamp="2012-03-18T19:46:22Z" changeset="11023190" uid="38239" user="Daeron"/>
+  <node id="301988140" lat="60.2124419" lon="24.7205811" version="2" timestamp="2012-03-18T19:46:23Z" changeset="11023190" uid="38239" user="Daeron"/>
+  <node id="301988142" lat="60.2126253" lon="24.7203751" version="2" timestamp="2012-03-18T19:46:23Z" changeset="11023190" uid="38239" user="Daeron"/>
+  <node id="301988151" lat="60.2130416" lon="24.7198459" version="2" timestamp="2012-03-23T11:52:14Z" changeset="11073011" uid="38239" user="Daeron"/>
+  <node id="302263230" lat="60.2150190" lon="24.7317410" version="2" timestamp="2012-03-21T03:26:27Z" changeset="11047957" uid="38239" user="Daeron"/>
+  <node id="302263232" lat="60.2151695" lon="24.7321274" version="2" timestamp="2012-03-21T03:26:27Z" changeset="11047957" uid="38239" user="Daeron"/>
+  <node id="302263234" lat="60.2153252" lon="24.7325591" version="2" timestamp="2012-03-21T03:26:27Z" changeset="11047957" uid="38239" user="Daeron"/>
+  <node id="302263237" lat="60.2153618" lon="24.7326588" version="2" timestamp="2012-03-21T03:26:27Z" changeset="11047957" uid="38239" user="Daeron"/>
+  <node id="302280153" lat="60.2190570" lon="24.7166450" version="5" timestamp="2012-03-23T17:33:57Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="302280205" lat="60.2199290" lon="24.7159377" version="2" timestamp="2012-03-23T17:33:57Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="302280206" lat="60.2199218" lon="24.7154822" version="2" timestamp="2012-03-23T17:33:57Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="302280207" lat="60.2202026" lon="24.7151212" version="2" timestamp="2012-03-23T17:33:57Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="302578933" lat="60.2154308" lon="24.7428811" version="5" timestamp="2012-03-22T15:36:46Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="302578934" lat="60.2153741" lon="24.7428464" version="4" timestamp="2012-03-22T15:36:47Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="302578964" lat="60.2151769" lon="24.7423537" version="3" timestamp="2012-03-22T15:36:47Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="302578965" lat="60.2151229" lon="24.7422376" version="3" timestamp="2012-03-22T15:36:47Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="303696745" lat="60.2218074" lon="24.7247949" version="3" timestamp="2012-03-23T01:44:02Z" changeset="11069599" uid="38239" user="Daeron"/>
+  <node id="416677808" lat="60.2079844" lon="24.7292842" version="3" timestamp="2011-12-27T03:13:48Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="416678299" lat="60.2081225" lon="24.7275787" version="3" timestamp="2011-12-27T03:13:49Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="452075290" lat="60.2200323" lon="24.7252724" version="2" timestamp="2012-03-23T01:44:04Z" changeset="11069599" uid="38239" user="Daeron"/>
+  <node id="480440877" lat="60.2071207" lon="24.6845458" version="2" timestamp="2013-05-27T19:02:22Z" changeset="16314215" uid="1484179" user="oiva"/>
+  <node id="480458732" lat="60.2073902" lon="24.6848006" version="1" timestamp="2009-09-01T21:57:05Z" changeset="2342860" uid="25469" user="jkp"/>
+  <node id="480458971" lat="60.2078404" lon="24.6851826" version="2" timestamp="2013-05-27T18:40:12Z" changeset="16313867" uid="1484179" user="oiva"/>
+  <node id="480458972" lat="60.2079119" lon="24.6853213" version="2" timestamp="2013-05-27T18:40:12Z" changeset="16313867" uid="1484179" user="oiva"/>
+  <node id="567676076" lat="60.2156750" lon="24.7266472" version="2" timestamp="2012-03-21T02:47:23Z" changeset="11047837" uid="38239" user="Daeron"/>
+  <node id="567676078" lat="60.2158226" lon="24.7271052" version="1" timestamp="2009-11-20T23:57:43Z" changeset="3172782" uid="139957" user="ij_"/>
+  <node id="567676080" lat="60.2160343" lon="24.7274554" version="1" timestamp="2009-11-20T23:57:43Z" changeset="3172782" uid="139957" user="ij_"/>
+  <node id="614407003" lat="60.2230627" lon="24.6967902" version="1" timestamp="2010-01-15T20:36:25Z" changeset="3627180" uid="139957" user="ij_"/>
+  <node id="614407004" lat="60.2231913" lon="24.6962779" version="1" timestamp="2010-01-15T20:36:25Z" changeset="3627180" uid="139957" user="ij_"/>
+  <node id="614407005" lat="60.2232771" lon="24.6957542" version="1" timestamp="2010-01-15T20:36:25Z" changeset="3627180" uid="139957" user="ij_"/>
+  <node id="614407006" lat="60.2233223" lon="24.6955426" version="2" timestamp="2011-12-10T22:07:01Z" changeset="10085344" uid="139957" user="ij_"/>
+  <node id="614407007" lat="60.2234311" lon="24.6953551" version="3" timestamp="2012-10-01T06:38:21Z" changeset="13318137" uid="38239" user="Daeron">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="614407008" lat="60.2235281" lon="24.6953217" version="3" timestamp="2011-12-10T22:07:01Z" changeset="10085344" uid="139957" user="ij_"/>
+  <node id="614407009" lat="60.2227074" lon="24.6984148" version="2" timestamp="2012-03-23T00:20:17Z" changeset="11069298" uid="38239" user="Daeron"/>
+  <node id="614407010" lat="60.2228261" lon="24.6978097" version="2" timestamp="2012-03-23T00:20:17Z" changeset="11069298" uid="38239" user="Daeron"/>
+  <node id="614407011" lat="60.2223248" lon="24.6998047" version="2" timestamp="2011-12-06T21:20:16Z" changeset="10053757" uid="139957" user="ij_"/>
+  <node id="614407012" lat="60.2224926" lon="24.6993357" version="2" timestamp="2012-03-23T00:20:17Z" changeset="11069298" uid="38239" user="Daeron"/>
+  <node id="614407013" lat="60.2225888" lon="24.6990544" version="2" timestamp="2012-03-23T00:20:17Z" changeset="11069298" uid="38239" user="Daeron"/>
+  <node id="614407014" lat="60.2222006" lon="24.7000830" version="2" timestamp="2011-12-06T21:20:17Z" changeset="10053757" uid="139957" user="ij_"/>
+  <node id="956494165" lat="60.2234236" lon="24.7173490" version="2" timestamp="2012-03-23T01:17:34Z" changeset="11069522" uid="38239" user="Daeron"/>
+  <node id="956494166" lat="60.2234969" lon="24.7167250" version="1" timestamp="2010-10-18T22:38:11Z" changeset="6087961" uid="139957" user="ij_"/>
+  <node id="956494167" lat="60.2231667" lon="24.7178335" version="2" timestamp="2012-03-23T01:17:34Z" changeset="11069522" uid="38239" user="Daeron"/>
+  <node id="1295327042" lat="60.2153234" lon="24.7427729" version="2" timestamp="2012-03-22T15:36:37Z" changeset="11064107" uid="38239" user="Daeron"/>
+  <node id="1540139083" lat="60.2233762" lon="24.6954184" version="1" timestamp="2011-12-10T22:02:29Z" changeset="10085344" uid="139957" user="ij_"/>
+  <node id="1540139105" lat="60.2234513" lon="24.6953481" version="1" timestamp="2011-12-10T22:02:30Z" changeset="10085344" uid="139957" user="ij_"/>
+  <node id="1563217242" lat="60.2079982" lon="24.7298126" version="1" timestamp="2011-12-27T03:09:07Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="1563217257" lat="60.2081916" lon="24.7273430" version="1" timestamp="2011-12-27T03:09:08Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="1563217424" lat="60.2090989" lon="24.7302363" version="1" timestamp="2011-12-27T03:09:13Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="1563217429" lat="60.2091389" lon="24.7298841" version="1" timestamp="2011-12-27T03:09:13Z" changeset="10212630" uid="38239" user="Daeron"/>
+  <node id="1673207439" lat="60.2083581" lon="24.7082210" version="1" timestamp="2012-03-13T11:07:27Z" changeset="10965293" uid="38239" user="Daeron"/>
+  <node id="1683707416" lat="60.2142366" lon="24.7255257" version="1" timestamp="2012-03-20T20:07:30Z" changeset="11044894" uid="38239" user="Daeron"/>
+  <node id="1685235045" lat="60.2163888" lon="24.7341706" version="1" timestamp="2012-03-21T22:37:18Z" changeset="11058030" uid="38239" user="Daeron"/>
+  <node id="1686435041" lat="60.2210568" lon="24.7474062" version="1" timestamp="2012-03-22T22:31:06Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="1686435046" lat="60.2211482" lon="24.7473941" version="1" timestamp="2012-03-22T22:31:07Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="1686435047" lat="60.2212420" lon="24.7473601" version="1" timestamp="2012-03-22T22:31:07Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="1686435049" lat="60.2214981" lon="24.7471585" version="1" timestamp="2012-03-22T22:31:07Z" changeset="11068638" uid="38239" user="Daeron"/>
+  <node id="1686493948" lat="60.2226653" lon="24.6987651" version="1" timestamp="2012-03-23T00:19:37Z" changeset="11069298" uid="38239" user="Daeron"/>
+  <node id="1686550034" lat="60.2195283" lon="24.7162659" version="2" timestamp="2012-03-23T17:33:44Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="1687444244" lat="60.2134581" lon="24.7257131" version="1" timestamp="2012-03-23T17:12:37Z" changeset="11076099" uid="38239" user="Daeron">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1687460603" lat="60.2075795" lon="24.6881530" version="2" timestamp="2014-12-28T18:56:02Z" changeset="27760777" uid="1484179" user="oiva">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="gate"/>
+  </node>
+  <node id="1687460643" lat="60.2191563" lon="24.7166129" version="1" timestamp="2012-03-23T17:33:13Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="1687460651" lat="60.2197500" lon="24.7160777" version="1" timestamp="2012-03-23T17:33:13Z" changeset="11076276" uid="38239" user="Daeron"/>
+  <node id="1941071973" lat="60.2081160" lon="24.7276274" version="1" timestamp="2012-10-01T06:48:29Z" changeset="13318203" uid="38239" user="Daeron">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="1941072012" lat="60.2163505" lon="24.7415534" version="1" timestamp="2012-10-01T06:48:31Z" changeset="13318203" uid="38239" user="Daeron">
+    <tag k="highway" v="give_way"/>
+  </node>
+  <node id="2322281650" lat="60.2079486" lon="24.6853626" version="1" timestamp="2013-05-27T18:40:11Z" changeset="16313867" uid="1484179" user="oiva"/>
+  <node id="2322361983" lat="60.2076202" lon="24.6849983" version="1" timestamp="2013-05-27T19:59:11Z" changeset="16315139" uid="1484179" user="oiva"/>
+  <node id="2326120742" lat="60.2079987" lon="24.6854189" version="2" timestamp="2014-12-28T18:56:02Z" changeset="27760777" uid="1484179" user="oiva"/>
+  <node id="2395067210" lat="60.2167330" lon="24.7104475" version="1" timestamp="2013-07-24T13:53:48Z" changeset="17075828" uid="505306" user="PetriT"/>
+  <node id="2395067211" lat="60.2166802" lon="24.7102764" version="1" timestamp="2013-07-24T13:53:48Z" changeset="17075828" uid="505306" user="PetriT"/>
+  <node id="2644067267" lat="60.2214750" lon="24.7471767" version="1" timestamp="2014-01-30T16:52:48Z" changeset="20286471" uid="1484179" user="oiva"/>
+  <node id="3257104438" lat="60.2078000" lon="24.6851488" version="1" timestamp="2014-12-28T18:56:01Z" changeset="27760777" uid="1484179" user="oiva">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4678402311" lat="60.2230841" lon="24.7179328" version="1" timestamp="2017-02-10T13:27:18Z" changeset="45973810" uid="5159390" user="tvenhola"/>
+  <node id="4739937181" lat="60.2215055" lon="24.7456299" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT"/>
+  <node id="4739937182" lat="60.2215561" lon="24.7454851" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT"/>
+  <node id="4739937200" lat="60.2181548" lon="24.7060289" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT"/>
+  <node id="4739937201" lat="60.2176321" lon="24.7064360" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT"/>
+  <node id="4739937202" lat="60.2189168" lon="24.7256626" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT"/>
+  <node id="4739937203" lat="60.2154798" lon="24.7324835" version="1" timestamp="2017-03-17T15:11:56Z" changeset="46930956" uid="4517549" user="HSL_HRT"/>
+  <node id="4761486698" lat="60.2222071" lon="24.7249183" version="1" timestamp="2017-03-29T09:05:42Z" changeset="47253290" uid="4926952" user="HSL_OSM"/>
+  <node id="4761486699" lat="60.2080877" lon="24.6855097" version="1" timestamp="2017-03-29T09:05:42Z" changeset="47253290" uid="4926952" user="HSL_OSM"/>
+  <node id="4761486700" lat="60.2073397" lon="24.6881120" version="1" timestamp="2017-03-29T09:05:42Z" changeset="47253290" uid="4926952" user="HSL_OSM"/>
+
+</osm>
