@@ -47,8 +47,8 @@ for i, digiroad_col in enumerate(digiroad_cols):
             way.append(tag)
             tag = etree.Element("tag", k="source:name:sv", v="Digiroad.fi")
             way.append(tag)
-            tag = etree.Element("tag", k="source:name:sv:date", v=str(datetime.date.today()))
-            way.append(tag)
+            #tag = etree.Element("tag", k="source:name:sv:date", v=str(datetime.date.today()))
+            #way.append(tag)
     except Exception as e:
         print(digiroad_col[0])
         print(e)
