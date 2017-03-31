@@ -19,7 +19,7 @@ args = parser.parse_args()
 
 #print(args)
 
-conn = psycopg2.connect("dbname=digiroad_test_db host=localhost port=5432 user=osm_import password=osm_import")
+conn = psycopg2.connect("dbname=digiroad_import_db host=localhost port=5432 user=osm_import password=osm_import")
 cursor = conn.cursor()
 
 cursor.execute("SELECT DISTINCT tienimi_su,tienimi_ru FROM %(table)s WHERE tienimi_su!='' AND tienimi_ru!='' AND kuntakoodi=%(mun_code)s", { "table": AsIs(args.digiroad_db_table), "mun_code": args.digiroad_kuntakoodi})
